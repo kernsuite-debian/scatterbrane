@@ -1,0 +1,17 @@
+Source: scatterbrane
+Section: python
+Priority: optional
+Maintainer: Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), python-all, dh-python, python-setuptools,
+ python-scipy, python-astropy, python-matplotlib
+Standards-Version: 3.9.4
+Homepage: https://github.com/krosenfeld/scatterbrane
+Vcs-Git: git://github.com/kernsuite-debian/scatterbrane.git
+Vcs-Browser: https://github.com/kernsuite-debian/scatterbrane.git
+X-Python-Version: >= 2.7
+
+Package: python-scatterbrane
+Architecture: any
+Depends: ${python:Depends}, ${misc:Depends}, python-scipy, python-astropy,
+ python-matplotlib
+Description: adding realistic scattering to astronomical images

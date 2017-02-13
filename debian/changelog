@@ -1,0 +1,5 @@
+scatterbrane (0.0+git20160122-1) xenial; urgency=low
+
+  * Initial release
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Thu, 09 Feb 2017 12:38:28 +0200
