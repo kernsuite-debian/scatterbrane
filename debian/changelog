@@ -1,3 +1,9 @@
+scatterbrane (0.0+git20160122-1kern2) xenial; urgency=medium
+
+  * update signature
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 07 Nov 2017 17:07:38 +0200
+
 scatterbrane (0.0+git20160122-1kern1) xenial; urgency=medium
 
   * add missing python-tk dependency
