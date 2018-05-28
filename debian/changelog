@@ -1,3 +1,9 @@
+scatterbrane (0.0+git20160122-1kern3) bionic; urgency=medium
+
+  * New upstream version for bionic
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 28 May 2018 18:53:41 +0000
+
 scatterbrane (0.0+git20160122-1kern2) xenial; urgency=medium
 
   * update signature
